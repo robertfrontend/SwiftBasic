@@ -6,5 +6,6 @@
         <page name='Opcionales'/>
         <page name='Colecctions'/>
         <page name='Control Flow'/>
+        <page name='Functions'/>
     </pages>
 </playground>
